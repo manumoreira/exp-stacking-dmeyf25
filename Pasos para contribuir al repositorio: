@@ -1,0 +1,34 @@
+Pasos para contribuir al repositorio:
+1. Crear tu rama
+git checkout -b nombre-de-tu-rama
+2. Hacer cambios y commitear
+bash
+# Después de modificar archivos:
+git add .
+git commit -m "Descripción clara de los cambios"
+3. Subir cambios y crear PR
+git push -u origin nombre-de-tu-rama
+4. Completar el Pull Request
+Copia el link que aparece en la terminal después del push
+
+Ábrelo en el navegador para crear el PR
+
+Completa:
+
+Título descriptivo
+
+Descripción detallada
+
+Asigna revisores
+
+💡 Recordatorios importantes:
+✅ Siempre crear una rama nueva para cada feature/fix
+
+✅ Escribir commits descriptivos
+
+✅ Usar PRs para todo - no hacer push directo a main
+
+✅ Esperar approval antes del merge
+
+¿Preguntas? ¡Avísanos! 🚀
+
