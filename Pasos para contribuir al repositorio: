@@ -12,7 +12,7 @@ git push -u origin nombre-de-tu-rama
 Copia el link que aparece en la terminal después del push
 
 Ábrelo en el navegador para crear el PR
-
+git 
 Completa:
 
 Título descriptivo
