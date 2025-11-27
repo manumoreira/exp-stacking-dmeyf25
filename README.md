@@ -9,8 +9,8 @@ Calculamos predicciones para nuestra clase en distintas ventanas de tiempo y con
 
 ## Resultados
 
-Los resultados pueden verse [acá]("https://drive.google.com/drive/folders/1FLmcr7Bpe4LNAgJcR8Ddalb5OyLjvARX?usp=sharing")
+Los resultados pueden verse [acá](https://drive.google.com/drive/folders/1FLmcr7Bpe4LNAgJcR8Ddalb5OyLjvARX?usp=sharing)
 
 ## Presentación
 
-Los detalles del experimento pueden verse en [la presentacion]("https://docs.google.com/presentation/d/1tZRAFp_VqefbrbUH7b6WA_K00ofpsQCM7Y5MN0J2tXA/edit?usp=sharing")
+Los detalles del experimento pueden verse en [la presentacion](https://docs.google.com/presentation/d/1tZRAFp_VqefbrbUH7b6WA_K00ofpsQCM7Y5MN0J2tXA/edit?usp=sharing)
